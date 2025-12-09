@@ -509,7 +509,7 @@ button[type="submit"] {
     }
 
     img {
-        width: 370px;
+        width: 330px;
     }
 
     .line {
@@ -519,4 +519,5 @@ button[type="submit"] {
     .title {
         font-size: 20px;
     }
+
 }
