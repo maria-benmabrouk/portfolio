@@ -509,7 +509,7 @@ footer{
     flex-wrap: nowrap;
     justify-content: center;
     gap: 15px;
-    margin: 50px;
+    margin: 0;
     padding: 0;
     font-size: 30px;
     justify-content: center;
@@ -538,6 +538,7 @@ footer{
     }
 
 }
+
 
 
 
