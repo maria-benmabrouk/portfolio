@@ -12,5 +12,5 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 - CSS
 - JavaScript
 
-## 👤 Author
-Maria Benmabrouk
+## 👩‍💻 Author
+**Maria Benmabrouk**
